@@ -209,3 +209,8 @@ hr{
 #times h2 {
     color: #fafafa;
 }
+
+#align ul li {
+    float:left;
+    width:20%;
+}
